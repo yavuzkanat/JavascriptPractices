@@ -1,0 +1,22 @@
+
+#headPage{
+    padding-top: 180px;
+    font-style: italic;
+}#inputTask{
+    padding-top: 50px;
+}#form{
+    justify-content: space-between;
+    
+}#filters{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    
+}
+.filters span.active{
+    color: red;
+    
+}.filters span{
+    cursor: pointer;
+    margin-right: 20px;
+}
